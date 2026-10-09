@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpontaneousGyronna", "SpontaneousGyronna.csproj", "{0EA6E016-884C-4231-91FE-FDB4A5FE3AE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EA6E016-884C-4231-91FE-FDB4A5FE3AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA6E016-884C-4231-91FE-FDB4A5FE3AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA6E016-884C-4231-91FE-FDB4A5FE3AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA6E016-884C-4231-91FE-FDB4A5FE3AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D465EFFC-F2AD-4F49-AE3F-85D3B1C005DB}
+	EndGlobalSection
+EndGlobal
